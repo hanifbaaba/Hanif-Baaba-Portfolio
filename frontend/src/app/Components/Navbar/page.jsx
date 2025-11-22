@@ -20,10 +20,6 @@ export default function Navbar() {
           </li>
         </ul>
       </nav>
-
-      <button className="border border-black px-4 py-2 rounded-md hover:bg-black hover:text-white transition">
-        Resume
-      </button>
     </header>
   );
 }
