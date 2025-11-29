@@ -7,7 +7,7 @@ export default function About() {
         A Fullstack developer/engineer(backend-focused) with years of experience
         in building scalable systems using{" "}
         <span className="font-semibold">
-          React, Next.js, Django, and MongoDB
+          React, Next.js, Django, PostgreSQL and MongoDB
         </span>
         .
       </p>

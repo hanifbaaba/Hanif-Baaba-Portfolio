@@ -9,14 +9,13 @@ export default function Navbar() {
       <nav>
         <ul className="flex items-center gap-8 text-lg font-medium">
           <li className="hover:text-gray-500 transition">
-            <Link href="/">Home</Link>
+            <Link href="/Components/About">About Me</Link>
           </li>
           <li className="hover:text-gray-500 transition">
-            <Link href="/About">About Me</Link>
+            <Link href="/https://github.com/hanifbaaba">Projects</Link>
           </li>
-
           <li className="hover:text-gray-500 transition">
-            <Link href="/ContactPage">Contact</Link>
+            <Link href="/Components/ContactPage">Contact</Link>
           </li>
         </ul>
       </nav>
