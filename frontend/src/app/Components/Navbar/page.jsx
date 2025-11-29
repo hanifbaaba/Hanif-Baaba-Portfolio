@@ -15,7 +15,7 @@ export default function Navbar() {
             <Link href="/https://github.com/hanifbaaba">Projects</Link>
           </li>
           <li className="hover:text-gray-500 transition">
-            <Link href="/Components/ContactPage">Contact</Link>
+            <Link href="/Components/Contact">Contact</Link>
           </li>
         </ul>
       </nav>

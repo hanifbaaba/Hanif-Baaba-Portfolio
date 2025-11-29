@@ -32,7 +32,6 @@ export default function SkillsPage() {
           {backend.map((backend) => (
             <div
               key={backend}
-              kend
               className="border border-gray-300 rounded-xl py-6 text-center text-lg font-semibold hover:shadow-md transition"
             >
               {backend}
@@ -44,7 +43,6 @@ export default function SkillsPage() {
           {database.map((database) => (
             <div
               key={database}
-              kend
               className="border border-gray-300 rounded-xl py-6 text-center text-lg font-semibold hover:shadow-md transition"
             >
               {database}

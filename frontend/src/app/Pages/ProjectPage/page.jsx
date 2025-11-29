@@ -65,6 +65,7 @@ export default function ProjectPage() {
                   width={400}
                   height={300}
                   className="object-cover w-full h-full"
+                  alt="project-image"
                 />
               ) : (
                 <span className="text-gray-400">No Image</span>
